@@ -192,3 +192,4 @@ for(let i = 0; i<LIST_INPUTS.length; i++) {
 SELECT.addEventListener("change", function() {
     check["country"]("country"); })
 
+for
